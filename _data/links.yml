@@ -1,241 +1,144 @@
 - categories:
-  - name: 购物
+  - name: 第三方组件
     links:
-    - name: 淘宝
+    - name: VTK
       style: orange
-      url: https://www.taobao.com/
+      url: http://vtk.org/
 
-    - name: 天猫
+    - name: OPenCasCade
       style: red
       url: https://www.tmall.com/
 
-    - name: 京东
+    - name: CGNS
       style: basic
-      url: https://www.jd.com/
+      url: http://cgns.github.io/
 
-    - name: Amazon
-      icon: amazon yellow
+    - name: OSG中国
       style: basic
-      url: https://www.amazon.cn/
+      url: http://www.osgchina.org/
 
-    - name: Apple
+    - name: QWT
       style: basic
-      icon: apple grey
-      url: https://www.apple.com/
+      url: https://qwt.sourceforge.io/
 
-    - name: 当当
+    - name: Armadillo
+      style: basic
+      url: https://arma.sourceforge.net/
+
+    - name: FFmpeg
       style: pink
-      url: http://www.dangdang.com/
+      url: https://ffmpeg.org/
 
-    - name: 严选
-      style: basic
-      url: http://you.163.com/
-
-    - name: UNIQLO
-      style: red
-      url: http://www.uniqlo.cn/
-
-    - name: MUJI
-      style: basic
-      url: http://www.muji.com.cn/
-
-    - name: IKEA
-      style: yellow
-      url: https://www.ikea.cn/
-
-    - name: Decathlon
-      style: blue
-      url: https://www.decathlon.com.cn/
-
-    - name: 大疆
-      style: black
-      url: https://www.dji.com/
-
-    - name: 小米
-      style: orange
-      url: https://www.mi.com/
-
-    - name: 有品
-      style: brown
-      url: https://xiaomiyoupin.com/
-
-  - name: 工具
+  - name: 软件与环境
     links:
-    - name: '12306'
-      icon: train red
+    - name: CMake
       style: basic
-      url: https://www.12306.cn/
+      url: https://cmake.org/
 
-    - name: 快递查询
-      icon: truck olive
+    - name: Python
       style: basic
-      url: https://kuaidi100.com/
+      url: https://www.python.org/
 
-    - name: 大众点评
-      icon: utensils orange
+    - name: Anaconda
       style: basic
-      url: https://www.dianping.com/
+      url: https://anaconda.org/
 
-    - name: 网易邮箱
-      icon: envelope red
+    - name: Intel
       style: basic
-      url: https://email.163.com/
+      url: https://www.intel.com/content/www/us/en/developer/overview.html#gs.3ugvhd
 
-    - name: QQ邮箱
+    - name: MySQL
       icon: qq black
       style: basic
-      url: https://mail.qq.com/
+      url: https://dev.mysql.com/
 
-    - name: 新浪邮箱
-      icon: envelope red
+    - name: MATLAB
       style: basic
-      url: https://mail.sina.com.cn/
+      url: https://ww2.mathworks.cn/
 
-    - name: Gmail
-      icon: google red
+    - name: ParaView
       style: basic
-      url: https://mail.google.com/
+      url: https://www.paraview.org/
 
-    - name: 谷歌翻译
-      icon: language blue
+    - name: GMsh
       style: basic
-      url: https://translate.google.com/
+      url: https://gmsh.info/
 
-    - name: 百度翻译
+    - name: Gnuplot
       icon: paw blue
       style: basic
-      url: https://fanyi.baidu.com/
+      url: http://www.gnuplot.info/
 
-    - name: 维基百科
+    - name: Tecplot
       icon: wikipedia w black
       style: basic
-      url: https://www.wikipedia.org/
+      url: https://www.tecplot.com/
 
-    - name: 彩云天气
-      icon: cloud olive
-      style: basic
-      url: http://caiyunapp.com/map
-
-    - name: 天眼查
-      style: basic
-      url: https://www.tianyancha.com/
-
-    # - name: 稿定设计
-    #   style: basic
-    #   url: https://www.gaoding.com/
-
-    # - name: MacWk
-    #   style: basic
-    #   url: https://macwk.com/
-
-  - name: 社交
+  - name: 内部使用
     links:
-    - name: 微博
-      icon: weibo red
-      style: basic
-      url: https://weibo.com/
+    - name: FastCAE知识库
+      style: red
+      url: http://wiki.fastcae.com/
 
-    - name: 微信网页版
-      icon: weixin green
+    - name: 阿里云（云效）
       style: basic
-      url: https://wx.qq.com/
+      url: https://account.aliyun.com/
 
-    - name: 百度贴吧
-      icon: paw blue
+    - name: 公司服务器（暂未对外开放）
       style: basic
-      url: https://tieba.baidu.com/
+      url: http://qd.diso.cn:9001/
 
-    - name: 知乎
-      icon: zhihu blue
-      style: basic
-      url: https://www.zhihu.com/
-
-    - name: Quora
-      icon: quora red
-      style: basic
-      url: https://www.quora.com/
-
-    - name: Facebook
-      icon: facebook f blue
-      style: basic
-      url: https://www.facebook.com/
-
-    - name: Google+
-      icon: google plus g red
-      style: basic
-      url: https://plus.google.com/
-
-    - name: Tumblr
-      icon: tumblr blue
-      style: basic
-      url: https://www.tumblr.com/
-
-    - name: Instagram
-      icon: instagram pink
-      style: basic
-      url: https://www.instagram.com/
-
-    - name: GitHub
-      icon: github black
-      style: basic
-      url: https://github.com/
-
-    - name: LinkedIn
-      icon: linkedin blue
-      style: basic
-      url: https://www.linkedin.com/
-
-  - name: 学习
+  - name: 常用网站
     links:
-    - name: Coursera
+    - name: 图片网
       style: basic
-      url: https://www.coursera.org/
+      url: https://www.cleanpng.com/
 
-    - name: MOOC
+    - name: 千图网
       style: basic
-      url: https://mooc.org/
+      url: https://www.58pic.com/
 
-    - name: 网易公开课
+    - name: 图标网
       style: basic
-      url: https://open.163.com/
+      url: https://www.iconfont.cn/
 
-    - name: W3School
+    - name: CSDN
       style: basic
-      url: https://www.w3school.com.cn/
+      url: https://www.csdn.net/
 
-    - name: Stack Overflow
-      icon: stack overflow orange
+    - name: 特殊符号大全
       style: basic
-      url: https://stackoverflow.com/
+      url: https://www.jiuwa.net/fuhao/agg/24/
 
-    - name: SegmentFault
+    - name: 网速测试
       style: basic
-      url: https://segmentfault.com/
+      url: https://www.speedtest.cn/
 
-    - name: Tutorials Point
+    - name: POE
       style: basic
-      url: https://www.tutorialspoint.com/
+      url: https://poe.com/
 
-    - name: Google Open Source
-      icon: code blue
+    - name: QT下载
       style: basic
-      url: https://opensource.google.com/
+      url: https://download.qt.io/archive/qt/
 
-    - name: EdX
+  - name: 常用软件
+    links:
+    - name: 格式工厂
       style: basic
-      url: https://edx.org/
+      url:  http://www.pcfreetime.com/formatfactory/index.php?language=en
 
-    - name: 学堂在线
+    - name: EV录屏
       style: basic
-      url: https://next.xuetangx.com/
+      url:  https://www.ieway.cn/index.html
 
-    - name: 优达学城
+    - name: Raylink远程屏控
       style: basic
-      url: https://cn.udacity.com/
+      url: https://www.raylink.live/
 
-    - name: 云英语
-      style: black
-      url: https://www.y-english.org/
+    - name: DiskGenius
+      style: basic
+      url: https://www.diskgenius.cn/
 
   - name: 娱乐
     links:
