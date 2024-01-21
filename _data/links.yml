@@ -7,14 +7,14 @@
 
     - name: OPenCasCade
       style: red
-      url: https://www.tmall.com/
+      url: https://www.opencascade.com/
 
     - name: CGNS
-      style: basic
+      style: orange
       url: http://cgns.github.io/
 
     - name: OSG中国
-      style: basic
+      style: red
       url: http://www.osgchina.org/
 
     - name: QWT
@@ -22,11 +22,11 @@
       url: https://qwt.sourceforge.io/
 
     - name: Armadillo
-      style: basic
+      style: orange
       url: https://arma.sourceforge.net/
 
     - name: FFmpeg
-      style: pink
+      style: orange
       url: https://ffmpeg.org/
 
   - name: 软件与环境
@@ -48,7 +48,6 @@
       url: https://www.intel.com/content/www/us/en/developer/overview.html#gs.3ugvhd
 
     - name: MySQL
-      icon: qq black
       style: basic
       url: https://dev.mysql.com/
 
@@ -70,7 +69,6 @@
       url: http://www.gnuplot.info/
 
     - name: Tecplot
-      icon: wikipedia w black
       style: basic
       url: https://www.tecplot.com/
 
