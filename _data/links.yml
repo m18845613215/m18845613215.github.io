@@ -18,7 +18,7 @@
       url: http://www.osgchina.org/
 
     - name: QWT
-      style: basic
+      style: orange
       url: https://qwt.sourceforge.io/
 
     - name: Armadillo
